@@ -39,7 +39,7 @@ export const AssetManagerModal: React.FC<AssetManagerModalProps> = ({ isOpen, on
     {
       name: 'public/assets/documents/',
       description: 'Downloadable resumes, credentials, and portfolios linked to the "Download CV" button.',
-      keyFiles: ['Jessica_Dangol_Resume.pdf'],
+      keyFiles: ['Final Resume.pdf'],
       formats: '.pdf',
     },
   ];
